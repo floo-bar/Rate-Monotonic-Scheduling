@@ -1,4 +1,4 @@
-#LCM
+#LCM function
 def find_lcm(num1, num2): 
     if(num1>num2): 
         num = num1 
